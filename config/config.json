@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7027D11221b6B03d82C19490cB179d243eD0f68c",
+  "SCAN_LINK": "https://etherscan.io/token/0x7027d11221b6b03d82c19490cb179d243ed0f68c",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "HANDS OFF UKRAINE Demo",
+  "SYMBOL": "HandsOffUkraineDemo",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OPENSEA",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hands-off-ukraine-demo",
+  "SHOW_BACKGROUND": true
+}
